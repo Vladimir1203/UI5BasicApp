@@ -1,0 +1,7 @@
+specVersion: '2.5'
+metadata:
+  name: SapUI5Tut
+type: application
+framework:
+  name: SAPUI5
+  version: "1.97.0"
